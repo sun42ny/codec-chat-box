@@ -1,5 +1,9 @@
 # chat-box
 
+Live Application ... 
+https://chatbox-codec.web.app/
+https://chatbox-codec.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
