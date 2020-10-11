@@ -1,8 +1,8 @@
 # chat-box - Under Development
 
 Live Application ... 
-1) https://chatbox-codec.web.app/
-2) https://chatbox-codec.firebaseapp.com/
+1) [Codec-ChatBox](https://chatbox-codec.web.app/)
+2) [Codec-ChatBox](https://chatbox-codec.firebaseapp.com/) ~ Alternative
 
 ## Project setup
 ```
