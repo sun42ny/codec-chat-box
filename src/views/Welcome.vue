@@ -98,8 +98,8 @@ export default {
   methods: {
     submitForm () {
       if (this.name) {
-        alert('The Website is under production. Will be back Soon')
-        // return this.$router.push({ name: 'Chat', params: { name: this.name } })
+        //alert('The Website is under production. Will be back Soon')
+        return this.$router.push({ name: 'Chat', params: { name: this.name } })
       } else {
         this.feedback = 'You must Enter a name to continue ... '
       }
